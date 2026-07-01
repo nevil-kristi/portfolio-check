@@ -8,6 +8,7 @@ import Home from "@/app/page";
 import AboutPage from "@/app/about/page";
 import SkillsPage from "@/app/skills/page";
 import EducationPage from "@/app/education/page";
+import ExperiencePage from "@/app/experience/page";
 import ProjectsPage from "@/app/projects/page";
 import ContactPage from "@/app/contact/page";
 import MorePage from "@/app/more/page";
@@ -36,6 +37,7 @@ function Router() {
         <Route path="/about" component={AboutPage} />
         <Route path="/skills" component={SkillsPage} />
         <Route path="/education" component={EducationPage} />
+        <Route path="/experience" component={ExperiencePage} />
         <Route path="/projects" component={ProjectsPage} />
         <Route path="/contact" component={ContactPage} />
         <Route path="/more" component={MorePage} />

@@ -1,77 +1,65 @@
 export const portfolioConfig = {
   // Basic Information
-  name: "Md Taqui Imam",
-  title: "Software Engineer",
-  description: "I am a Passionate Software Developer",
-  location: "Ramgarh cantt, Jharkhand, India",
+  name: "Nevil Kristi",
+  title: "Frontend Developer",
+  description: "Frontend Developer with 3+ years of experience",
+  location: "Surat, India",
 
   // Contact Information
-  email: "taquiimam@example.com", // Replace with actual email if available
+  email: "nevilkristi@gmail.com",
+  phone: "+91 9825488348",
 
   // Social Media Links
   socialLinks: {
-    facebook: "https://www.facebook.com/shahina.khatun.1044",
-    twitter: "https://twitter.com/md_taqui_imam",
-    linkedin: "https://www.linkedin.com/in/taqui-imam",
-    external: "https://tinyurl.com/MdTaquiImam",
-    github: "https://github.com/taqui-786", // Assuming this is the GitHub link
+    facebook: "#",
+    twitter: "#",
+    linkedin: "#",
+    external: "#",
+    github: "#",
   },
 
   // SEO Information
   seo: {
-    ogImage: "https://mdtaquiimam.vercel.app/og-image.png",
-    url: "https://mdtaquiimam.vercel.app",
-    twitterHandle: "@md_taqui_imam",
+    ogImage: "",
+    url: "",
+    twitterHandle: "@nevilkristi",
     keywords: [
-      "md",
-      "taqui",
-      "imam",
-      "Md",
-      "MD",
-      "TAQUI",
-      "Taqui",
-      "Imam",
-      "Imam",
-      "Md Taqui Imam",
-      "md taqui imam",
-      "mdtaqui",
-      "mdtaquiimam",
-      "taqui imam",
-      "Taqui Imam",
-      "Taquiimam",
+      "Nevil",
+      "Kristi",
+      "Nevil Kristi",
+      "nevil kristi",
+      "nevilkristi",
+      "frontend developer",
+      "react developer",
+      "javascript developer",
       "portfolio",
       "web developer",
       "web",
-      "web dev",
       "developer",
-      "PROGRAMMER ",
-      "programmer ",
-      "MD TAQUI IMAM ",
-      "website",
-      "@Taquiimam",
-      "Taquiimam",
-      "taqui developer",
+      "UI engineer",
+      "Surat",
+      "India",
     ],
     authors: [
       {
-        name: "Taqui Imam",
-        url: "https://github.com/taqui-786",
+        name: "Nevil Kristi",
+        url: "#",
       },
     ],
   },
 
   // About Information
   about: {
-    bio: "I am a Full Stack Web Developer from Ramgarh cantt, Jharkhand, India. I'm passionate about crafting web projects and contributing to open-source communities. I specialize in modern JavaScript frameworks and responsive CSS design, focusing on creating pixel-perfect, user-friendly interfaces. With strong attention to detail and efficient delivery, I build seamless web experiences that combine functionality with elegant design.",
+    bio: "Frontend Developer with 3+ years of experience building scalable and interactive web applications using React.js and modern JavaScript. Experienced in transforming static designs into reusable component-based architecture within test-driven environments. Additionally skilled in Agentic Development, building AI-assisted workflows and integrating intelligent automation into web applications.",
     hobbies: [
       "Coding",
-      "Playing Games",
-      "Watching Anime",
-      "Tech Blog Writing",
-      "Creating Cool Projects",
+      "Building AI Workflows",
+      "Open Source",
+      "Gaming",
+      "Tech Exploration",
     ],
     personalInfo: {
-      language: "English UK",
+      language: "English",
       nationality: "India",
       gender: "Male",
     },
@@ -80,12 +68,11 @@ export const portfolioConfig = {
   // Skills and Roles
   skills: {
     roles: [
-      "Freelancer",
-      "Blogger",
-      "Gamer",
-      "Creator",
-      "Student",
-      "Contributer",
+      "Frontend Developer",
+      "JavaScript Developer",
+      "React Developer",
+      "UI Engineer",
+      "AI-assisted Dev",
     ],
     // Technical Skills
     programmingLanguages: [
@@ -105,22 +92,10 @@ export const portfolioConfig = {
         name: "TypeScript",
         icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
       },
-      {
-        name: "C++",
-        icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg",
-      },
-      {
-        name: "Python",
-        icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
-      },
-      {
-        name: "Java",
-        icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg",
-      },
     ],
     frameworks: [
       {
-        name: "React",
+        name: "React.js",
         icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
       },
       {
@@ -128,24 +103,28 @@ export const portfolioConfig = {
         icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg",
       },
       {
-        name: "Vue.js",
-        icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg",
-      },
-      {
-        name: "Svelte",
-        icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg",
-      },
-      {
         name: "Tailwind CSS",
         icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg",
       },
       {
-        name: "Bootstrap",
-        icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg",
-      },
-      {
         name: "Material UI",
         icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg",
+      },
+      {
+        name: "Ant Design",
+        icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg",
+      },
+      {
+        name: "GraphQL",
+        icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg",
+      },
+      {
+        name: "Node.js",
+        icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+      },
+      {
+        name: "WordPress",
+        icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg",
       },
     ],
     tools: [
@@ -162,166 +141,128 @@ export const portfolioConfig = {
         icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg",
       },
       {
-        name: "Docker",
-        icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg",
+        name: "Postman",
+        icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg",
       },
-      {
-        name: "Firebase",
-        icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg",
-      },
-      {
-        name: "MongoDB",
-        icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg",
-      },
-      {
-        name: "PostgreSQL",
-        icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg",
-      },
+    ],
+    aiTools: [
+      { name: "Cursor AI", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" },
+      { name: "ChatGPT", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openal/openal-original.svg" },
+      { name: "Prompt Engineering", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" },
+      { name: "AI API Integration", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" },
     ],
   },
 
   // Education Information
   education: [
     {
-      degree: "Bachelor of Computer Application",
-      institution: "Ranchi University Jharkhand",
-      location: "Doranda College Ranchi",
-      period: "July 2023 - 2026",
+      degree: "Bachelor of Science in Computer Science",
+      institution: "Shree Ramkrishna Institute of Computer Education & Applied Sciences",
+      location: "VNSGU, Surat",
+      period: "2016 – 2019",
       description:
-        "I am currently Studying Bachelor of Computer Application form Doranda College Ranchi a Goverment College of Ranchi. The program has provided me with a well-rounded education, covering both theoretical foundations and practical applications of computer science.",
+        "Completed BSc in Computer Science with a focus on software development fundamentals, data structures, algorithms, and web technologies at VNSGU.",
+    },
+    {
+      degree: "Master of Science in Computer Application",
+      institution: "Shree Ramkrishna Institute of Computer Education & Applied Sciences",
+      location: "VNSGU, Surat",
+      period: "2019 – 2021",
+      description:
+        "Completed MSc in Computer Application, deepening expertise in advanced programming, web technologies, software engineering, and modern JavaScript frameworks.",
+    },
+  ],
+
+  // Work Experience
+  experience: [
+    {
+      role: "Software Developer Trainee",
+      company: "Differenz System",
+      period: "Feb 2021 – Aug 2021",
+      points: [
+        "Assisted in frontend development using React, JavaScript, and WordPress.",
+        "Fixed UI bugs and implemented new features.",
+        "Learned component-based architecture and API integration.",
+        "Collaborated with senior developers in an agile environment.",
+      ],
+    },
+    {
+      role: "Jr. Software Engineer",
+      company: "Differenz System",
+      period: "Aug 2021 – Oct 2022",
+      points: [
+        "Converted static HTML designs into reusable React components.",
+        "Migrated WordPress frontend to React with Node.js backend.",
+        "Developed interactive game modules: Chess Clock, Wheel of Fortune, and Icebreaker tools.",
+        "Improved application performance and UI responsiveness.",
+        "Released patches and handled bug fixes post-deployment.",
+      ],
+    },
+    {
+      role: "JavaScript Developer",
+      company: "Logicwind Technologies LLP",
+      period: "June 2023 – Present",
+      points: [
+        "Built web applications using React.js and Next.js.",
+        "Integrated GraphQL APIs with Apollo Client.",
+        "Converted Figma designs into responsive React components.",
+        "Developed scalable UI using Ant Design (AntD).",
+        "Used AI tools (Cursor, ChatGPT) and applied agentic workflows to boost productivity.",
+      ],
     },
   ],
 
   // Projects Information
   projects: [
     {
-      title: "WePost- A modern, minimalistic social platform.",
+      title: "Chess Clock – Interactive Game Module",
       description:
-        "WePost is a modern, minimalistic social platform for sharing posts, like, follow, and engaging in comments etc.",
-      tags: ["Tanstack-Query", "PostgreSQL", "Shadcn Ui", "Nextjs"],
-      link: "https://we-post-dev.vercel.app",
+        "Interactive chess clock built as a standalone game module with configurable time controls, move tracking, and real-time game state management.",
+      tags: ["React", "JavaScript", "CSS3"],
+      link: "#",
     },
     {
-      title: "Devzone- A community chat app for devs",
+      title: "Wheel of Fortune – Game Module",
       description:
-        "DevZone is the ultimate chat platform for developers to connect, collaborate, and code together. Join the conversation and level up your coding journey.",
-      tags: ["Zustand", "Supabase", "Shadcn Ui", "Nextjs"],
-      link: "https://devzone-ti.vercel.app/",
+        "Wheel of Fortune game module with smooth spin animations and configurable prize segments, built for enterprise team engagement sessions.",
+      tags: ["React", "JavaScript", "Framer Motion"],
+      link: "#",
     },
     {
-      title: "itZmyLink- One Page many Links",
+      title: "Icebreaker Tools Suite",
       description:
-        "itZmyLink is a simple platform where user can create a personalized page to showcase all your social media profiles in one place. ",
-      tags: ["Nextjs", "Typescript", "Shadcn Ui"],
-      link: "https://github.com/taqui-786/itZmyLink",
+        "A suite of interactive icebreaker tools for team engagement, featuring multiple configurable game modes and real-time interactivity.",
+      tags: ["React", "JavaScript", "CSS3"],
+      link: "#",
     },
     {
-      title: "GitEstimate- Github estimate worth generator",
+      title: "WordPress to React Migration",
       description:
-        "GitEstimate is a simple fun tool where user can generate their github estimate worth card just by entering their github username. ",
-      tags: ["Nextjs", "Typescript", "Shadcn Ui"],
-      link: "https://github.com/taqui-786/GitEstimate",
+        "Migrated a legacy WordPress frontend to a modern React + Node.js stack, improving performance, developer experience, and maintainability.",
+      tags: ["React", "Node.js", "JavaScript", "WordPress"],
+      link: "#",
     },
     {
-      title: "Mixcn-ui- Reusable components for Nextjs",
+      title: "GraphQL Dashboard App",
       description:
-        "This is Nextjs app with a Collection of Nextjs Components - (Currently under Devlelopment) ",
-      tags: ["Nextjs", "Shadcnui", "Npx", "Library"],
-      link: "https://mixcn-ui.vercel.app",
+        "Built a scalable web application with React.js and Next.js, integrating GraphQL APIs via Apollo Client and implementing responsive UI with Ant Design.",
+      tags: ["Next.js", "GraphQL", "Apollo Client", "Ant Design"],
+      link: "#",
     },
     {
-      title: "Rupeespot- All deals Product in one place",
+      title: "Figma-to-React Component Library",
       description:
-        "This is a free tool to check price history charts for millions of products for popular Indian stores such as Amazon and Flipkart. ",
-      tags: ["Nextjs", "Freelancing", "MySQL"],
-      link: "https://rupeespot.com/",
-    },
-    {
-      title: "Formcraft- Build Type-Safe Forms with Zero Effort",
-      description:
-        "Create production-ready forms with Zod validation, React Hook Form, and TypeScript. Design, customize, and deploy in minutes.",
-      tags: ["Nextjs", "Shadcnui", "Zod", "React Hook Form "],
-      link: "https://formcraft-ti.vercel.app/",
-    },
-    {
-      title: "KryptoKapital- Investing in Cryptocurreny",
-      description:
-        "This is a platform for learning about cryptocurrency with many tools and festures. It is very big project. ",
-      tags: ["Nextjs", "Freelancing", "Supabase"],
-      link: "https://pro.kryptokapital.info/",
-    },
-    {
-      title: "FriendZ - A social media Platform",
-      description:
-        "FriendZ is a social media app made with modern tech stacks such as redis, Authjs etc. A user can Create, delete, like, comment Post. ",
-      tags: ["Redis", "Authjs", "Typescript", "Nextjs"],
-      link: "https://github.com/taqui-786/project-friendz",
-    },
-    {
-      title: "ChatApp- Simple instagram clone",
-      description:
-        "ChatApp is similar to instagram, you can create, edit, delete, like,comment, post and  Follow, unfollow users",
-      tags: ["Reactjs", "Javascript"],
-      link: "https://github.com/taqui-786/chatapp-api",
-    },
-    {
-      title: "Devletter - A Newsletter for devs",
-      description:
-        "Devletter ia a newsletter subscribing single page app made with Nextjs and Tailwindcss.",
-      tags: ["Nextjs", "Tailwindcss"],
-      link: "https://github.com/taqui-786/Devletter",
-    },
-    {
-      title: "CrouMaker - A Crousal Maker App",
-      description:
-        "Crousal Maker is a tool with in-built crousals templates edit and download it in any format.",
-      tags: ["Nextjs", "jsPDF", "html2canvas", "Shadcn Ui"],
-      link: "https://github.com/taqui-786/crousal-maker",
+        "Systematically converted Figma designs into a reusable, responsive React component library used across multiple client projects.",
+      tags: ["React", "Tailwind CSS", "TypeScript"],
+      link: "#",
     },
   ],
 
   // More Links Information
-  moreLinks: [
-    {
-      title: "Dev.to",
-      description:
-        "I write blogs on web development, trending tech stacks or javascript guide or tips in Dev.to ",
-      link: "https://dev.to/random_ti",
-    },
-    {
-      title: "Hashnode",
-      description:
-        "I write blogs on web development, trending tech stacks or javascript guide or tips in Hashnode",
-      link: "https://mdtaquiimam.hashnode.dev/",
-    },
-    {
-      title: "Medium",
-      description:
-        "I write blogs on web development, trending tech stacks or javascript guide or tips in Medium",
-      link: "https://medium.com/@mdtaqui.jhar",
-    },
-    {
-      title: "Daily.Dev",
-      description:
-        "I am also the member of Daily Dev squads and i also upload post on some squads.",
-      link: "https://app.daily.dev/taqui_786",
-    },
-    {
-      title: "Gumroad",
-      description:
-        "I also sell digital products on gumroad like Notion Templates and web projects etc.",
-      link: "https://mdtaquijhar.gumroad.com/",
-    },
-    {
-      title: "Buy Me a coffee",
-      description:
-        "Supports my content quality, new topics, and project creation.",
-      link: "https://www.buymeacoffee.com/taquidevloper",
-    },
-  ],
+  moreLinks: [],
 
   // API Keys (should be in .env but referenced here)
   apiKeys: {
-    resendApiKey: "YOUR_RESEND_API_KEY", // This should be loaded from environment variables in a real app
+    resendApiKey: "YOUR_RESEND_API_KEY",
   },
 };

@@ -17,10 +17,9 @@ const skillPage = () => {
         <Heading>My Technical Experience/Skills.</Heading>
         <FramerWrapper y={0} x={200}>
           <p className="font-poppins text-xl w-full text-primary max-sm:text-lg">
-            Currently i am a fresher and i have a solid understand of HTML5,
-            CSS3, JS, TS and React, including responsive design principles. I
-            specialize in building web applications and sites using Javascript,
-            Typescript, React, Nextjs & Node.
+            Frontend Developer with 3+ years of experience in React.js, Next.js, and modern JavaScript.
+            Skilled in building scalable, responsive UIs — from Figma designs to production-ready components.
+            Additionally experienced in agentic AI workflows, GraphQL APIs, and component-based architecture.
           </p>
         </FramerWrapper>
         <FramerWrapper y={100} delay={0.3} className="block w-full">
@@ -45,6 +44,14 @@ const skillPage = () => {
           </h1>
           <div className="w-full grid grid-cols-7 max-lg:grid-cols-4 max-md:grid-cols-3 max-sm:grid-cols-2 gap-4">
             <SkillsFooter items={portfolioConfig.skills.tools} />
+          </div>
+        </FramerWrapper>
+        <FramerWrapper className="block w-full" y={100} delay={0.36}>
+          <h1 className="gap-2 text-2xl font-poppins text-primary font-semibold flex text_underline relative max-sm:text-xl mb-4">
+            AI & Agentic Development
+          </h1>
+          <div className="w-full grid grid-cols-7 max-lg:grid-cols-4 max-md:grid-cols-3 max-sm:grid-cols-2 gap-4">
+            <SkillsFooter items={portfolioConfig.skills.aiTools} />
           </div>
         </FramerWrapper>
       </div>

@@ -1,5 +1,6 @@
 import { cn } from "@/lib/utils";
 import {
+  Briefcase,
   FolderGit2,
   GraduationCap,
   HomeIcon,
@@ -19,6 +20,7 @@ const Navbar = () => {
     { title: 'About', icon: <User className='h-full w-full ' />, href: '/about' },
     { title: 'Skills', icon: <LightbulbIcon className='h-full w-full ' />, href: '/skills' },
     { title: 'Education', icon: <GraduationCap className='h-full w-full ' />, href: '/education' },
+    { title: 'Experience', icon: <Briefcase className='h-full w-full ' />, href: '/experience' },
     { title: 'Projects', icon: <FolderGit2 className='h-full w-full ' />, href: '/projects' },
     { title: 'Contact us', icon: <Mail className='h-full w-full ' />, href: '/contact' },
     { title: 'More', icon: <MoreHorizontal className='h-full w-full ' />, href: '/more' },
