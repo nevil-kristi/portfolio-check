@@ -1,6 +1,6 @@
 export const portfolioConfig = {
   // Basic Information
-  name: "Nevil Kristi",
+  name: "Nevil Christian 1",
   title: "Frontend Developer",
   description: "Frontend Developer with 3+ years of experience",
   location: "Surat, India",
