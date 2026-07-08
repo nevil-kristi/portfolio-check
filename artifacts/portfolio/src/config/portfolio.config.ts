@@ -1,6 +1,6 @@
 export const portfolioConfig = {
   // Basic Information
-  name: "Nevil Christian 1",
+  name: "Nevil Christian 2",
   title: "Frontend Developer",
   description: "Frontend Developer with 3+ years of experience",
   location: "Surat, India",
@@ -142,10 +142,22 @@ export const portfolioConfig = {
       },
     ],
     aiTools: [
-      { name: "Cursor AI", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" },
-      { name: "ChatGPT", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openal/openal-original.svg" },
-      { name: "Prompt Engineering", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" },
-      { name: "AI API Integration", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" },
+      {
+        name: "Cursor AI",
+        icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg",
+      },
+      {
+        name: "ChatGPT",
+        icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openal/openal-original.svg",
+      },
+      {
+        name: "Prompt Engineering",
+        icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+      },
+      {
+        name: "AI API Integration",
+        icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+      },
     ],
   },
 
@@ -153,7 +165,8 @@ export const portfolioConfig = {
   education: [
     {
       degree: "Bachelor of Science in Computer Science",
-      institution: "Shree Ramkrishna Institute of Computer Education & Applied Sciences",
+      institution:
+        "Shree Ramkrishna Institute of Computer Education & Applied Sciences",
       location: "VNSGU, Surat",
       period: "2016 – 2019",
       description:
@@ -161,7 +174,8 @@ export const portfolioConfig = {
     },
     {
       degree: "Master of Science in Computer Application",
-      institution: "Shree Ramkrishna Institute of Computer Education & Applied Sciences",
+      institution:
+        "Shree Ramkrishna Institute of Computer Education & Applied Sciences",
       location: "VNSGU, Surat",
       period: "2019 – 2021",
       description:
