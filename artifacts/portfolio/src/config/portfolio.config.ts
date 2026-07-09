@@ -1,6 +1,6 @@
 export const portfolioConfig = {
   // Basic Information
-  name: "Nevil Christian 2",
+  name: "Nevil Christian",
   title: "Frontend Developer",
   description: "Frontend Developer with 3+ years of experience",
   location: "Surat, India",
@@ -12,7 +12,7 @@ export const portfolioConfig = {
   // Social Media Links
   socialLinks: {
     facebook: "#",
-    twitter: "#",
+    twitter: "https://x.com/",
     linkedin: "#",
     external: "#",
     github: "#",
